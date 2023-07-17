@@ -6,5 +6,5 @@ streamlit==1.22.0
 streamlit_option_menu==0.3.2
 matplotlib==3.5.2
 PyAutoGUI==0.9.54
-streamlit_extras==0.2.7
+streamlit_extras==0.0.1
 
