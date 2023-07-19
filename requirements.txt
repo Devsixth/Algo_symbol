@@ -21,10 +21,6 @@ attrs==22.1.0
 Automat==20.2.0
 autopep8==1.6.0
 Babel==2.11.0
-backcall==0.2.0
-backports.functools-lru-cache==1.6.4
-backports.tempfile==1.0
-backports.weakref==1.0.post1
 bcrypt==3.2.0
 beautifulsoup4==4.12.2
 binaryornot==0.4.4
