@@ -125,14 +125,6 @@ keyring==23.13.1
 kiwisolver==1.4.4
 lazy_loader==0.2
 lazy-object-proxy==1.6.0
-libarchive-c==2.9
-libmambapy==1.4.1
-linkify-it-py==2.0.0
-llvmlite==0.40.0
-lmdb==1.4.1
-locket==1.0.0
-lxml==4.9.2
-lz4==4.3.2
 Markdown==3.4.1
 markdown-it-py==2.2.0
 markdownlit==0.0.7
